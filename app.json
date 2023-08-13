@@ -1,0 +1,8 @@
+{
+    "name": "Coin Flip",
+    "description": "A coin flip website.",
+    "repository": "https://github.com/BinBashBanana/coin-flip",
+    "logo": "https://github.com/fluidicon.png",
+    "keywords": ["coin", "flip"],
+    "buildpacks": [{"url": "https://github.com/heroku/heroku-buildpack-static"}]
+}
