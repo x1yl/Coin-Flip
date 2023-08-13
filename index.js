@@ -7,6 +7,6 @@ flip.addEventListener("click", function () {
   resultSpan.innerHTML = "";
   setTimeout(function () {
     resultSpan.innerHTML = result;
-    coin.src = "src/" + result.toLowerCase() + ".png";
+    coin.src = "images/" + result.toLowerCase() + ".png";
   }, 250);
 });
